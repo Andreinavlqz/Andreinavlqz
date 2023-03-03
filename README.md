@@ -20,7 +20,7 @@ Me apasiona trabajar en proyectos desafiantes y colaborativos, y siempre busco o
 
 Si estás interesado en colaborar en proyectos de desarrollo web, ¡contáctame y conversemos!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andreinavelazquez/)  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andreina-velazquez-311bba1a3/)  
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/andreinavlqz/) 
 
 ### ¡Gracias por visitar mi perfil de GitHub! 😄
